@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Itsmejowy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Juventus-logo-500x281.png" alt="SUII" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Finals Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Ang Huling Digmaan bago ang bakasyon
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Itsmejowy/WD-VERINO-FINALS)
 
 ---
 
@@ -60,17 +60,17 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - The project is the creation of a personal website, referred to as Personal Website A Showcase of Design and Functionality
+- Whats the purpose - The purpose of the project is to demonstrate proficiency in HTML, CSS, and JavaScript by building a personal website that includes multiple pages with distinct layouts. The website will highlight the developer's skills, experience, and qualifications in a resume-like format, showcase past projects, and provide an overview of the site’s purpose and content.
+- What are key components - The project involves creating a personal website with at least five distinct pages, each with unique and visually appealing designs. The site will include resume-like information, a project showcase page with links and descriptions, and an engaging overview page.
+- What technology used and how it is used - The website utilizes pure HTML, CSS, and JavaScript for development. Libraries such as Font Awesome, Google Fonts, Bootstrap, Material UI, or Tailwind CSS can be used to enhance styling and functionality.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Resume-like Information Page
+- Project Showcase Page
+- Unique Design Layouts
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +117,3 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
