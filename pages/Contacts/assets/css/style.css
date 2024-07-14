@@ -100,6 +100,36 @@ main p {
     color: #666;
 }
 
+.contact-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 1.1rem;
+    transition: transform 0.3s ease-in-out;
+}
+
+.contact-item i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+    color: #61dafb;
+    transition: color 0.3s ease-in-out;
+}
+
+.contact-item:hover {
+    transform: scale(1.05);
+}
+
+.contact-item:hover i {
+    color: #4fb0e5;
+}
+
 form {
     margin-top: 20px;
     animation: slideUp 1s ease-in-out;
